@@ -1,0 +1,21 @@
+.button {
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 1.2rem;
+    background-color: #5796e6;
+    color: white;
+    cursor: pointer;
+    border: 2px solid black;
+    box-shadow: 0 2px 8px black;
+}
+
+.buttonFalse {
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 1.2rem;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    border: 2px solid black;
+    box-shadow: 0 2px 8px black;
+}
